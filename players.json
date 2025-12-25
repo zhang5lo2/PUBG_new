@@ -52,5 +52,59 @@
                 "current_ammo": 5
             }
         ]
+    },
+    "202434610323": {
+        "student_id": "202434610323",
+        "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "weapons": [
+            {
+                "name": "M249",
+                "damage": 40,
+                "firing_mode": "{single, auto}",
+                "magazine_capacity": 50,
+                "reserve_mags": 4,
+                "current_ammo": 15
+            },
+            {
+                "name": "M416",
+                "damage": 40,
+                "firing_mode": "{single, auto}",
+                "magazine_capacity": 30,
+                "reserve_mags": 3,
+                "current_ammo": 1
+            },
+            {
+                "name": "M16A4",
+                "damage": 40,
+                "firing_mode": "{single, auto}",
+                "magazine_capacity": 30,
+                "reserve_mags": 2,
+                "current_ammo": 6
+            },
+            {
+                "name": "AUG",
+                "damage": 41,
+                "firing_mode": "{single, auto}",
+                "magazine_capacity": 30,
+                "reserve_mags": 2,
+                "current_ammo": 6
+            },
+            {
+                "name": "AKM",
+                "damage": 47,
+                "firing_mode": "{single, auto}",
+                "magazine_capacity": 30,
+                "reserve_mags": 2,
+                "current_ammo": 6
+            },
+            {
+                "name": "98K",
+                "damage": 79,
+                "firing_mode": "{single}",
+                "magazine_capacity": 5,
+                "reserve_mags": 5,
+                "current_ammo": 5
+            }
+        ]
     }
 }
