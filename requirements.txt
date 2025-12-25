@@ -1,12 +1,24 @@
-streamlit
-pandas
-numpy
-matplotlib
-seaborn
-librosa
-scikit-learn
-imbalanced-learn
-joblib
-tqdm
-torch
-stdiomask
+# === Core Data Science ===
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# === Deep Learning (PyTorch) ===
+# 注意：如果需要 GPU 支持，建议去 pytorch.org 复制专门的安装命令
+torch>=1.10.0
+torchaudio>=0.10.0
+
+# === Audio Processing ===
+librosa>=0.9.0
+
+# === Web UI & Interface ===
+streamlit>=1.10.0
+stdiomask>=0.0.6
+tqdm>=4.60.0
+
+# === Utilities ===
+joblib>=1.1.0
+imbalanced-learn>=0.9.0
+colorama>=0.4.4
